@@ -20,7 +20,7 @@
    ```
 2. Перейдите в директорию проекта:
    ```
-   Weather_Telegram_Bot
+   cd Weather_Telegram_Bot
    ```
 3. Установите зависимости:
    ```
