@@ -6,5 +6,3 @@ services:
     container_name: telegram_bot
     restart: always
     env_file: .env
-    volumes:
-      - ./weather_bot.db:/app/weather_bot.db
