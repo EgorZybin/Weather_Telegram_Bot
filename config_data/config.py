@@ -8,7 +8,6 @@ else:
 
 BOT_TOKEN = os.getenv('BotToken')
 RAPID_API_KEY = os.getenv('API_Key')
-Climate_API = os.getenv('Climate_API')
 DEFAULT_COMMANDS = (
     ('start', "Запустить бота"),
     ('help', "Помощь по командам бота"),
