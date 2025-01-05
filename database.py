@@ -1,8 +1,8 @@
 import sqlite3
 import datetime
 
-DB_PATH = './weather_bot.db'
 
+DB_PATH = './weather_bot.db'
 
 def init_db():
     """Создает таблицу, если её нет"""
