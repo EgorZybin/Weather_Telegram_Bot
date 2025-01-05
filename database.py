@@ -1,7 +1,7 @@
 import sqlite3
 import datetime
 
-DB_PATH = ".data/weather_bot.db"
+DB_PATH = "./weather_bot.sqlite"
 
 
 def init_db():
